@@ -10,7 +10,7 @@ Internal engineering org. This repo hosts the org profile, architecture docs, an
 
 ## Product repos
 
-- [`autotask-mcp-retell`](https://github.com/Layer-7-Systems/autotask-mcp-retell) — Service Desk voice agent (Retell + MCP + Autotask).
+- [`autotask-mcp-retell`](https://github.com/Layer-7-Systems/autotask-mcp-retell) — L7S voice agents (Retell + MCP + Autotask).
 
 ## Conventions
 
