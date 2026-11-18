@@ -10,7 +10,7 @@ Internal engineering org. This repo hosts the org profile, architecture docs, an
 
 ## Product repos
 
-- [`layer7-voice-agent-server`](https://github.com/Layer-7-Systems/layer7-voice-agent-server) — L7S voice agents (Retell + MCP + Autotask).
+- [`voice-agent-server`](https://github.com/Layer-7-Systems/voice-agent-server) — L7S Retell voice agent management persistent server.
 
 ## Conventions
 
